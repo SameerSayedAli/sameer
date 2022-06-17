@@ -1,0 +1,23 @@
+class Greater{
+
+	public static void main(String[] args)
+	{
+		int num1 = 60;
+	    int num2 = 40;
+		int num3 = 30;
+		
+		if(num1>num2 || num1>num3)
+		{
+			
+			
+				System.out.println("Num1 is greater than num2 and num3");
+			
+		}
+		else
+		{
+			System.out.println("Num1 is not greater  than num2 and num3");
+		}
+		
+		
+	}
+}
